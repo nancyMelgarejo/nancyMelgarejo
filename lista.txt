@@ -1,3 +1,5 @@
 arroz
 chocolate
 pan
+torta
+ caramelos
